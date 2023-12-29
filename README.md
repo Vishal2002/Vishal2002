@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Vishal2002
-- 👀 I’m interested in Web Development,DSA and Writing
-- 🌱 I’m currently learning Backend in Node.js
-- 📫 You can reach me via my email vishalsharma05052002@gmail.com
+# Hi there, I'm Vishal Sharma! 👋
 
-<!---
-Vishal2002/Vishal2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Web Developer and aspiring Software Engineer with a keen interest in Data Structures and Algorithms. Currently, I'm diving into the world of Backend Development with Node.js. I enjoy combining my technical skills with my love for writing.
+
+## 🌱 I’m Currently Learning
+
+- **Docker**
+- **WebSockets**
+- Exploring **AWS**
+
+## 💻 What I Know
+
+- **HTML** | **CSS** | **JavaScript**
+- **React** | **Node.js**
+- **Express** | **MongoDB** | **SQL**
+- **Python**
+
+
+## 📫 Let's Connect
+
+- **Email:** vishalsharma05052002@gmail.com
+- **X:**     [Vishal Sharma](https://twitter.com/sharma_188)
+
+Happy coding! 🚀
