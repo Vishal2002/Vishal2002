@@ -4,9 +4,9 @@ I'm a passionate Web Developer and aspiring Software Engineer with a keen intere
 
 ## 🌱 I’m Currently Learning
 
-- **Docker**
-- **WebSockets**
-- Exploring **AWS**
+- **Go**
+- **Next.js**
+- Exploring **NextAuth**
 
 ## 💻 What I Know
 
